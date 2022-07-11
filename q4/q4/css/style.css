@@ -1,1 +1,54 @@
 @charset "UTF-8";
+
+.top-bar {
+    display: table;
+    width: 100%;
+    margin: 0%;
+}
+
+.under-bar{
+    display: table;
+    width: 100%;
+    margin: 50px 0 0 0;
+}
+
+.bar {
+    display: table-cell;
+    padding: 20px;
+    text-align: center;
+}
+
+.red {
+    width: 300px;
+    background-color: #ff7b7b;
+}
+
+.blue {
+    width: auto;
+    background-color: #7b86ff;
+}
+
+.yellow {
+    width: 300px;
+    background-color: #fff27b;
+}
+
+.green {
+    width: auto;
+    background-color: #7bff91;
+}
+
+.pink {
+    width: 400px;
+    background-color: #ff7be2;
+}
+
+.orange {
+    width: 400px;
+    background-color: #ffc67b;
+}
+
+.lightblue {
+    width: auto;
+    background-color: #7bf2ff;
+}
